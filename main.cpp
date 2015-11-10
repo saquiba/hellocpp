@@ -7,7 +7,7 @@ int main (){
   cout<<"PR to run travis"; 
   cout<<"error megre pull request"; // create error, fixed
   
-  cout <<"make another error"
+  cout <<"make another error";  //fixed error
   
   return 0;
   
