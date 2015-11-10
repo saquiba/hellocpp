@@ -5,7 +5,9 @@ int main (){
 
   cout<<"hello";
   cout<<"PR to run travis"; 
-  cout<<"error megre pull request"; //fixed the error, travis will pass
+  cout<<"error megre pull request"; // create error, fixed
+  
+  cout <<"make another error"
   
   return 0;
   
